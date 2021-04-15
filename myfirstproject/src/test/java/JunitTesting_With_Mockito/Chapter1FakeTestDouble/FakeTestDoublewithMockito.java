@@ -13,6 +13,10 @@ import java.util.Collection;
 
 import static org.mockito.Mockito.mock;
 
+//  trying my first commit to GIt hub afte changes
+// this is the first real kind of project I am commiting to Git
+// my third comment line
+
 public class FakeTestDoublewithMockito {
 
     @Test
